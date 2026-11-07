@@ -1,0 +1,28 @@
+{
+  "master_seed": 20261108,
+  "n": 300,
+  "cv": 0.12,
+  "rates": [
+    0.28,
+    0.28,
+    0.28,
+    0.15,
+    0.15,
+    0.15
+  ],
+  "d": 0.2,
+  "D": 1.0,
+  "beta": 0.04,
+  "mu": 0.1,
+  "initial_c": 0.015,
+  "assay_start": 150.0,
+  "end": 170.0,
+  "cut": 0.5,
+  "viability": 0.001,
+  "rtol": 1e-08,
+  "atol": 1e-10,
+  "bootstrap_seed": 8813,
+  "bootstrap_n": 10000,
+  "folds": 5,
+  "ridge": 1.0
+}
