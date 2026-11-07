@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Generative Constraint Theory: Interventional Closure and Viable Compositional Reach (code and data)"
+authors:
+  - family-names: Vieira
+    given-names: Armando
+    affiliation: "Institute of Computer Science, University of Tartu"
+    orcid: "https://orcid.org/0000-0002-4447-2291"
+    email: armando.vieira@ut.ee
+license: MIT
+repository-code: "https://github.com/farquasar1/gct-artificial-life"
+date-released: 2026-11-07
+version: 1.0.0
