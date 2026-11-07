@@ -1,0 +1,10 @@
+{
+  "checks": "passed",
+  "main_replicates": 400,
+  "sweep_replicates": 2100,
+  "nominal_rerun_max_differences": {
+    "subthreshold": 0.0,
+    "superthreshold": 0.0
+  },
+  "budget": 172.2
+}

@@ -1,0 +1,32 @@
+{
+  "first_experiment": {
+    "n_supercritical": 199,
+    "n_misses": 21,
+    "n_miss_equilibrium_below_cut": 20,
+    "exceptions": [
+      {
+        "seed": 121,
+        "condition": "superthreshold",
+        "rho": 0.20763293379536876,
+        "min_equilibrium": 0.05100701774797375,
+        "durable": false,
+        "first_integer_time_above_cut": 646.0
+      }
+    ],
+    "early_difference": 0.2471231207820866,
+    "early_paired_ci": [
+      0.23966038085089628,
+      0.2547476889651289
+    ],
+    "rescue_success": 200,
+    "rescue_viable": 56,
+    "rescue_product_lower_bound": 0.8225966691808597
+  },
+  "topology_independent_full_product_integration": {
+    "networks": 6,
+    "assays": 24,
+    "maximum_yield_error": 6.501343907672208e-11,
+    "relative_tolerance": 1e-11,
+    "absolute_tolerance": 1e-13
+  }
+}
